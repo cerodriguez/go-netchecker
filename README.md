@@ -1,4 +1,4 @@
-# Internet Connectivity Checker - Learning go
+# Internet Connectivity Checker
 
 This is an educational project to periodically check internet connectivity and perform more in-depth tests when connectivity issues are detected. The program is written in Go and is designed to work on both Linux and macOS.
 
